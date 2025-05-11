@@ -1,0 +1,19 @@
+ > Training Environment:
+ | > Backend: Torch
+ | > Mixed precision: False
+ | > Precision: float32
+ | > Num. of CPUs: 8
+ | > Num. of Torch Threads: 4
+ | > Torch seed: 54321
+ | > Torch CUDNN: True
+ | > Torch CUDNN deterministic: False
+ | > Torch CUDNN benchmark: False
+ | > Torch TF32 MatMul: False
+ > Start Tensorboard: tensorboard --logdir=D:\ÎÄµµ\´óÈýÏÂ½Ì²Ä\Êý×ÖÓïÒô´¦Àí\simple_tts\output\run-May-11-2025_02+51PM-0000000
+
+ > Model has 28226649 parameters
+
+[4m[1m > EPOCH: 0/240[0m
+ --> D:\ÎÄµµ\´óÈýÏÂ½Ì²Ä\Êý×ÖÓïÒô´¦Àí\simple_tts\output\run-May-11-2025_02+51PM-0000000
+
+[1m > TRAINING (2025-05-11 14:52:01) [0m
