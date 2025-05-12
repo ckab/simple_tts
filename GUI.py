@@ -13,7 +13,7 @@ model_10374 = "D:/pth/best_model_10374.pth"
 model_11058 = "D:/pth/best_model_11058.pth"
 config_path = "D:/pth/config.json"
 sample_rate = 22050
-duration_sec = 1  # 每段音频取前1.5秒
+duration_sec = 1.0 # 每段音频取前1.5秒
 
 
 def synthesize_single_word(word):
